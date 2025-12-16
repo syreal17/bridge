@@ -1,0 +1,7 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1765923698
+Player.gd::GDScript::3091586045111294190::1765923229::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player.tscn::PackedScene::7068896386617186243::1765923240::0::1::::<><><>0<>0<><>::res://Player.gd
+README.md::TextFile::-1::1765923311::0::1::::<><><>0<>0<><>::
+tileset.tres::TileSet::6927267199948440211::1765923276::0::1::::<><><>0<>0<><>::
+World.tscn::PackedScene::7657485505920388403::1765923260::0::1::::<><><>0<>0<><>::uid://c5xvcw8dkbysh::::res://tileset.tres<>uid://c7yhxqpvfvnyh::::res://Player.tscn
