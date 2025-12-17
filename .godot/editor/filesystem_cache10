@@ -1,7 +1,10 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1765923698
+::res://::1765943374
 Player.gd::GDScript::3091586045111294190::1765923229::0::1::::<>CharacterBody2D<><>0<>0<><>::
 Player.tscn::PackedScene::7068896386617186243::1765923240::0::1::::<><><>0<>0<><>::res://Player.gd
 README.md::TextFile::-1::1765923311::0::1::::<><><>0<>0<><>::
+node_2d.tscn::PackedScene::6152545344496982982::1765923866::0::1::::<><><>0<>0<><>::
 tileset.tres::TileSet::6927267199948440211::1765923276::0::1::::<><><>0<>0<><>::
 World.tscn::PackedScene::7657485505920388403::1765923260::0::1::::<><><>0<>0<><>::uid://c5xvcw8dkbysh::::res://tileset.tres<>uid://c7yhxqpvfvnyh::::res://Player.tscn
+::res://assets/::1765943400
+TX Tileset Grass.png::CompressedTexture2D::6373083920920883764::1729183104::1765943421::1::::<><><>0<>0<>c2e5ee65c56fa60c7f39958526f1e33c<>res://.godot/imported/TX Tileset Grass.png-025db4c27fa3754abaa5c5816735163c.ctex::
